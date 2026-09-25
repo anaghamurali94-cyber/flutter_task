@@ -47,7 +47,7 @@ jobs:
       - name: Run tests
         run: flutter test
 
-analyze:
+  analyze:
     runs-on: ubuntu-latest
 
     steps:
